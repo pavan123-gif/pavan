@@ -1,0 +1,29 @@
+Internet & Bascics:
+Internet is network  of  networks. www stands  for world wide web is implemented by tim  berners lee.
+when we enter google.com (url) in browser,browser requests ISP(like jio,airtel),then it moves to dns(domai Name system )
+it wil lead to server by IP adress.Server will respond  and client receives HTML,CSS,JS
+Domain(.com,in etc....),URL(uniform resource locator),
+https
+
+cd...it will make control back to previous folder
+ls...list of all 
+mkdir...create a directory
+rmdir...remobes the directory
+code editor:visual code studio
+extension (live srever,pretier)
+autosave+wordwrap
+
+
+Basic HTML:-
+how to maintain a blog?
+wee can make a basic blog in hash node.hashnode and dev are famous communities for developers.
+create a account in hash node and a blog in hash node.and click write at top and write an article on what you know
+ git& github:
+ git is a application whichj is used for version  control.git is a centralized version central system.git keep tags of all our versions 
+ changes & updates.
+ GIt will contain three phases
+ working phase/working area git init
+ staging phase/staging area git add .
+ local respository:git commit -m"message"
+Anchor tag <a href="https;//www.google.co.in"target="-blank">lorem</a>.
+frrepick
