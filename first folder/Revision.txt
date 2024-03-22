@@ -25,5 +25,9 @@ create a account in hash node and a blog in hash node.and click write at top and
  working phase/working area git init
  staging phase/staging area git add .
  local respository:git commit -m"message"
+ to solve who are you?git config --global user.email"your email id"
+                      git config --global user.name"username"
+github is a platform created by microsoft where developers share,delay and merge codes 
+
 Anchor tag <a href="https;//www.google.co.in"target="-blank">lorem</a>.
 frrepick
